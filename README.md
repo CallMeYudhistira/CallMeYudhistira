@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a student developer with a strong interest in software development and problem solving. I enjoy building applications that focus on functionality, efficiency, and clean code structure.👨‍💻<br><br>My experience includes working with various technologies for web, mobile, and desktop applications. I am continuously learning and improving my skills through hands-on projects and practical implementation.✨</p>
+<p align="left">I am a student developer with a strong interest in software development. I enjoy building cool applications for fun or for my own business.👨‍💻<br><br>My experience includes working with various technologies for web, mobile, and desktop applications. I am continuously learning and improving my skills through hands-on projects and practical implementation.✨</p>
 
 ###
 
